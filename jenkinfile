@@ -52,3 +52,4 @@ stages {
                 sh "trivy fs . > trivyfs.txt"
              }
          }
+}
